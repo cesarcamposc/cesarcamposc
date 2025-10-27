@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Cesar Carlos Campos Contreras
 
-<!--
-**cesarcamposc/cesarcamposc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Engineer | Python | SQL | Cloud (AWS, GCP, Azure)**
 
-Here are some ideas to get you started:
+Soy ingeniero de datos apasionado por transformar datos en valor.  
+Trabajo con pipelines escalables, automatización y arquitectura de datos moderna.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+- 🐍 **Lenguajes:** Python, SQL, Bash  
+- ☁️ **Cloud:** AWS (S3, Lambda, Glue), GCP (BigQuery, Dataflow)  
+- 🛠️ **Herramientas:** Snowflake, Airflow, dbt, Docker, Terraform, Spark, Kafka  
+- 📊 **Data:** Pandas, PySpark, PostgreSQL, MongoDB, Firebase  
+
+---
+
+## 📈 Proyectos Destacados
+🔹 [ETL con Airflow y S3 → Redshift](https://github.com/tuusuario/proyecto-airflow)  
+🔹 [Pipeline con PySpark en Dataproc](https://github.com/tuusuario/proyecto-pyspark)  
+🔹 [Dashboard con BigQuery + Looker Studio](https://github.com/tuusuario/dashboard-bq)
+
+---
+
+## 📫 Contáctame
+- 💼 [LinkedIn](https://www.linkedin.com/in/cesarcamposcontreras/)
