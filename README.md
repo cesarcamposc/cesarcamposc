@@ -1,6 +1,6 @@
 # 👋 Hola, soy Cesar Carlos Campos Contreras
 
-🎯 **Data Engineer | Python | SQL | Cloud (AWS, GCP, Azure)**
+🎯 **Data Engineer | Java | Python | SQL | Cloud (AWS, GCP, Azure)**
 
 Soy ingeniero de datos apasionado por transformar datos en valor.  
 Trabajo con pipelines escalables, automatización y arquitectura de datos moderna.
